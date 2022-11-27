@@ -33,10 +33,10 @@
 4. Программа находится в ветке master
 
 Код программы:
-[code]
+[code](https://github.com/Adbord/FinalTask_work)
 Результат вывода в терминал:
 
 
 
 Скриншот коммитов для подтверждения:
-
+![Commit](Commit.PNG)
