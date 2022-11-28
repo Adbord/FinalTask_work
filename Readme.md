@@ -36,7 +36,7 @@
 [code](https://github.com/Adbord/FinalTask_work)
 
 Результат вывода в терминал:
-
+![Command](Command.PNG)
 
 
 Скриншот коммитов для подтверждения:

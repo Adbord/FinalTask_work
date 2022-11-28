@@ -1,0 +1,15 @@
+D:\C@#\GIT\FinalTask_work\App\bin\Debug\net7.0\App.exe
+D:\C@#\GIT\FinalTask_work\App\bin\Debug\net7.0\App.deps.json
+D:\C@#\GIT\FinalTask_work\App\bin\Debug\net7.0\App.runtimeconfig.json
+D:\C@#\GIT\FinalTask_work\App\bin\Debug\net7.0\App.dll
+D:\C@#\GIT\FinalTask_work\App\bin\Debug\net7.0\App.pdb
+D:\C@#\GIT\FinalTask_work\App\obj\Debug\net7.0\App.csproj.AssemblyReference.cache
+D:\C@#\GIT\FinalTask_work\App\obj\Debug\net7.0\App.GeneratedMSBuildEditorConfig.editorconfig
+D:\C@#\GIT\FinalTask_work\App\obj\Debug\net7.0\App.AssemblyInfoInputs.cache
+D:\C@#\GIT\FinalTask_work\App\obj\Debug\net7.0\App.AssemblyInfo.cs
+D:\C@#\GIT\FinalTask_work\App\obj\Debug\net7.0\App.csproj.CoreCompileInputs.cache
+D:\C@#\GIT\FinalTask_work\App\obj\Debug\net7.0\App.dll
+D:\C@#\GIT\FinalTask_work\App\obj\Debug\net7.0\refint\App.dll
+D:\C@#\GIT\FinalTask_work\App\obj\Debug\net7.0\App.pdb
+D:\C@#\GIT\FinalTask_work\App\obj\Debug\net7.0\App.genruntimeconfig.cache
+D:\C@#\GIT\FinalTask_work\App\obj\Debug\net7.0\ref\App.dll
