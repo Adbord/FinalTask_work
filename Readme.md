@@ -33,7 +33,7 @@
 4. Программа находится в ветке master
 
 Код программы:
-[code](https://github.com/Adbord/FinalTask_work)
+[code](https://github.com/Adbord/FinalTask_work/blob/master/App/Program.cs)
 
 Результат вывода в терминал:
 ![Command](Command.PNG)
